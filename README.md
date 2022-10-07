@@ -1,1 +1,1 @@
-# webpack-my-starter
+# webpackProject
